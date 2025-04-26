@@ -1,0 +1,1 @@
+projede powershell kullanma. Cmd kullan.
